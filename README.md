@@ -49,9 +49,3 @@
 
 ### 🛠️ Let's Connect!
 <!-- Tambahkan sosial media kamu di sini (LinkedIn, Instagram, dsb) -->
-
----
-
-<p align="center">
-  <img src="https://github.com/bbiliasegeboy09/bbiliasegeboy09/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
